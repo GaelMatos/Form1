@@ -46,6 +46,9 @@
   color: #888;
 }
 
+body{
+  background-color: black;
+}
 
 form{
   width: 350px;
